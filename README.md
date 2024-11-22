@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Gitesh Atrawalkar!
+# Hi there 👋 I'm Gitesh Atrawalkar!
 
  ## 🚀 About Me
 
