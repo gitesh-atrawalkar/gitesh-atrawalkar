@@ -17,7 +17,6 @@ I'm Software developer with 2 years of experience in Frontend Development. Devel
 
 - [React.js](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
-- [Vue.js](https://vuejs.org/)
 - [Angular](https://angular.io/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
