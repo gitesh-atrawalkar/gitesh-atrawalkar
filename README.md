@@ -9,7 +9,7 @@ I'm Software developer with 2 years of experience in Frontend Development. Devel
 
 ## 🔗 Links & Connections
 
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge)](https://your-portfolio-link.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gitesh-atrawalkar) [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/your-number)  [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:gitesh.atrawalkar@gmail.com)
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge)](https://your-portfolio-link.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gitesh-atrawalkar) [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+48579185728)  [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:gitesh.atrawalkar@gmail.com)
 
 ---
 
