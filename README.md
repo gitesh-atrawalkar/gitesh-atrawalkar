@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Gitesh Atrawalkar!
 
 ## 🚀 About Me
-I'm Software developer with 2 years of experience in Frontend Development. Developing and maintaining web applications using React, Angular, Redux, JavaScript, TypeScript, HTML, and CSS. Proficient in managing multiple projects simultaneously, mentoring junior developers, and ensuring high-quality code through agile methodologies. Strong analytical and communication skills, coupled with a quick learning ability and a team-oriented mindset.
+I'm Software developer with 2 years of experience in Frontend Development. Developing and maintaining web applications using React, Angular, Nodejs, JavaScript, TypeScript, HTML, and CSS. Proficient in managing multiple projects simultaneously, mentoring junior developers, and ensuring high-quality code through agile methodologies. Strong analytical and communication skills, coupled with a quick learning ability and a team-oriented mindset.
 
 > *"Eat Sleep Code and Repeat, until you Succeed"*! 👌
 
@@ -19,6 +19,7 @@ I'm Software developer with 2 years of experience in Frontend Development. Devel
 - [Next.js](https://nextjs.org/)
 - [Angular](https://angular.io/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- Nodejs
 - [TypeScript](https://www.typescriptlang.org/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
