@@ -19,7 +19,7 @@ I'm Software developer with 2 years of experience in Frontend Development. Devel
 - [Next.js](https://nextjs.org/)
 - [Angular](https://angular.io/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Nodejs](https://nodejs.org/en)
+- [Node.js](https://nodejs.org/en)
 - [TypeScript](https://www.typescriptlang.org/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
